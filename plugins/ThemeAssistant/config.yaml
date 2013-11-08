@@ -1,0 +1,11 @@
+key:         themeassistant
+id:          themeassistant
+name:        'Theme Assistant'
+description: 'Brings some of Theme Managers capabilities to MT5+.'
+author_name: 'Dan Wolfgang, Endevver'
+author_link: http://endevver.com
+plugin_link: https://github.com/endevver/mt-plugin-gamify
+version:     1.0.0
+
+callbacks:
+    post_apply_theme: $ThemeAssistant::ThemeAssistant::Plugin::callback_post_apply_theme
