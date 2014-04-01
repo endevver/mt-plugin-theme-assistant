@@ -5,7 +5,7 @@ description: 'Brings some of Theme Managers capabilities to MT5+.'
 author_name: 'Dan Wolfgang, Endevver'
 author_link: http://endevver.com
 plugin_link: https://github.com/endevver/mt-plugin-theme-assistant
-version:     1.0.0
+version:     1.0.3
 
 callbacks:
     post_apply_theme: $ThemeAssistant::ThemeAssistant::Plugin::callback_post_apply_theme
