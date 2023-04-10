@@ -12,7 +12,7 @@ But, there are still some things Theme Manager does that we missed in MT5 -- mos
 
 To install this plugin follow the instructions found here:
 
-http://tinyurl.com/easy-plugin-install
+[http://www.majordojo.com/2008/12/the-ultimate-guide-to-installing-movable-type-plugins.php](https://web.archive.org/web/20220517035754/http://www.majordojo.com/2008/12/the-ultimate-guide-to-installing-movable-type-plugins.php)
 
 # Use
 
